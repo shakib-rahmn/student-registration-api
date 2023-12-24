@@ -16,5 +16,5 @@ model User {
   last_name  String
   age        Int
   grade      String
-  courses    String
+  courses    String?
 }
